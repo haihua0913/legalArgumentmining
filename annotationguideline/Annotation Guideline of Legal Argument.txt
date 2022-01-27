@@ -1,0 +1,81 @@
+Legal Argument Annotation Guideline
+
+
+Descriptions under Labels:
+
+○	Formal description (what are we capturing with this label?).
+○	Informal description (ways to build intuition about it).
+○	Label examples, with brief explanations.
+
+
+
+(1) Fact
+○	Any fact that is pertinent to the case.  This includes testimony, statements of record, case history, and anything else that is a fact that helps establish the foundation of the case for the court to build its analysis and judgement on.
+○	This is a very broad category.  Anything that “sets the stage,” as it were, should be labeled as a fact.  Factual sentences do not include any synthesis or reasoning (that would fall under Analysis); rather, they simply state events or matters of record.  
+○	Examples (taken from various cases):
+■	“No issue of entrapment was raised by the evidence.” (That issue is not something the court is considering in this case as the evidence is not there.)
+■	“There was never any loud talking, noise, communication with other patrons in the establishment, or boisterous or unseemly conduct on the part of any of them.” (Statement conveying some context to the case.)
+■	“The state’s evidence shows that on the day in question Customs Officers Donald J. Hauff and Stewart Adams received information that the appellant was to take delivery of a quantity of marijuana near a cafe in the city of Harlingen.” (Matter of record/history.)
+■	“There being no statement of facts, we are not apprised of the contents or form of the indictments.” (Legal history in that no statement of facts was made to the court.)
+■	“As a witness in his own behalf, appellant admitted having had a few beers prior to his arrest but stated that he thought he was sober.” (Witness testimony, indirectly quoted.)
+■	“‘Now you say that the premises were controlled by Report Walton on that date and you know that?’” (Witness testimony, direct.)
+
+
+(2) Issue
+○	Any issue or question that the court must decide.  This includes the overall issue of the case as well as any sub-issues that are raised in the case.  
+○	This tends to be a pretty narrow category with few sentences in any given case deserving the label.  Any sentence that relates a question for the court to resolve ought to be labeled as an issue.  Note that a lot of the issue sentences could be read as a fact, as any issue is inherently part of the factual history of the court case.  Nevertheless, please keep an eye out for the differences.  Additionally, Issue supercedes Rule/Law/Holding; that is, if a sentence is an issue and it contains a rule, law, or holding it should still be classified as an issue.
+○	Examples (taken from various cases):
+■	“The conviction is for felony theft; the punishment, five years.” (This is an issue and not a fact because this is the opening sentence of an appeal hearing.  Thus, the trial court’s decision is the issue being decided in this court.)
+■	“Appellant urges as unconstitutional that portion of subdivision (14) of Art. 725b, V.A.P.C., defining a narcotic drug, which reads: “* * * and opiates which shall mean any drug found to be an addiction-forming or addiction-sustaining liability similar to opium or cocaine, which are now or may be added subsequently, as restricted preparations under the provisions of the Federal Narcotic Laws” on the ground that such is an unwarranted delegation of legislative power to the Federal government.” (The appellant is arguing that something is unconstitutional, which of course means that the court has to decide if it is actually unconstitutional.)
+■	“Appellant’s sole contention on appeal is that the evidence is insufficient to sustain the conviction.” (This is the question that the court must decide, namely: is the evidence sufficient?)
+■	“It is next contended that the proof merely shows an extension of credit by the injured party to the Lewter Feed Lots Company in the sale of the tires and tube to appellant and therefore does not constitute theft.” (Another question that the court must resolve.)
+■	“Appellant also contends that the trial court erred in permitting the State to introduce photographs showing where Farris fell after being shot.” (Again, the issue before the trial court is whether the original court erred or not.)
+
+
+(3) Rule/Law/Holding
+○	Any statement of or reference to a rule, law, or holding.  This includes sentences that reference a rule, law, or holding and then use it to reason through some point.  
+○	Generally speaking, any time a reference is made to a rule, law, or holding that sentence should be given this label.  Note that these sentences could be read as a fact, since whenever a law is quoted, for example, it is a fact that the law states that quotation.  Nevertheless, please assign this label to sentences that directly or indirectly reference a rule, law, or holding except in the case of sentences that are issues.  (These also tend to be sentences in which the sentence-splitting doesn’t work as well.)
+○	Examples (taken from various cases): 
+■	“It is the rule in this state that a confession or statement of facts amounting thereto, made by an accused, while in custody or confinement, which would not be admissible as original evidence, may not be used for impeachment.” (The sentence directly references a rule in the state.)
+■	“Reliance is had upon Toombs v. 21, 317 S.W. 2d 737, as authority for reversal of cases where the state’s testimony was adduced by only one witness.” (Clear reference to a specific case.  Please disregard the missing information, this sentence was not split properly and it appears some information was lost.)
+■	“The statutes relating to the waiver of a jury in a non-capital felony case provide that it shall be necessary for the state to introduce evidence into the record showing the guilt of the defendant, and that in no event shall a person charged be convicted upon his plea of guilty without sufficient evidence to support the same.” (While the specific statute is not given, there is a clear reference to one.)
+
+
+(4) Analysis
+○	Any sentence that synthesizes information to further the court’s reasoning.  This includes sentences that refer to the facts of the case and then uses them to push forward towards a resolution.
+○	Analysis sentences tend to move the court through the case from the facts towards the conclusion, so there is often a logical progression stringing analysis sentences together.  Please note that a sentence that references a rule, law, or holding and then analyzes it in the context of the current case should be labeled Rule/Law/Holding, not as an analysis sentence.
+○	Examples (taken from various cases):
+■	“Had the new Rules of Appellate Procedure been in effect during the pendency of this appeal, sanctions against the responsible attorneys would have been appropriate.” (This sentence moves the reasoning along.)
+■	“We feel that Longoria is distinguishable from the case at bar in that the evidence showed that one of the appellants stated: “This lady was scared and asked me if we were going to beat her up.” (A judgement from the court deciding what is applicable and what is not.)
+■	“The evidence was undisputed that the appellant consented to the search.” (This sentence is based on the facts of the case to push the case forward.)
+■	“The fact that appellant was under arrest when he gave the consent did not vitiate the same.” (Reasoning leading to a conclusion.)
+■	“In the face of this record, there is no showing that the arguments complained of resulted in any injury or prejudice to the rights of the appellant.” (Analysis of the record moving towards a conclusion.)
+
+
+(5) Conclusion  
+○	Any sentence that effectively resolves an issue facing the court. 
+○	Conclusions tend to be short and straight to the point, either agreeing or disagreeing with some argument.  Please note that as there are sub-issues, there are also sub-conclusions that conclude a specific sub-issue being discussed by the court.
+○	Examples (taken from various cases):
+■	“The trial court erred in submitting to the jury the issue of rape by threats.” (Conclusion to the issue of whether the trial court erred in a particular matter or not.)
+■	“The judgment is affirmed.” (Somewhat boilerplate, but still a conclusion to the case.)
+■	“Opinion approved by the Court.” (Similar to the above, a boilerplate sentence that concludes the court case.)
+■	“Finding the evidence sufficient to support the conviction and no reversible error appearing, the judgment of the trial court is affirmed.” (Conclusion to the issue of the case, namely: there is no reason to reverse the prior court’s ruling.)
+
+
+(6) Others
+○	Any sentence or phrase that does not fit the other labels in terms of its content.  This includes section headings.
+○	Sentences that fit this label tend to be sentences that do not add any information to the case and thus do not fall into any of the other labels.  Section headings are in this category as they are neither complete sentences nor useful when building the logic of the court case.
+○	Examples (taken from various cases):
+■	“ON appellant’s motion for rehearing” (This is a section heading.)
+■	“The evidence” (Another section heading.)
+■	“This is a very interesting question.” (This, while a complete sentence, does not add anything of use to the case so it does not fall into the other labels.)
+■	“(Transcript, page 16).” (Not useful for building the case’s logic.)
+■	“We have carefully reviewed both of these cases.” (Another sentence that is not materially useful for the case.)
+●	Invalid Sentences    
+○	This category is reserved for sentences that were not split correctly.  
+○	Many of these sentences arise from sentences that explicitly reference a section of a legal work (see examples 3 & 4).  
+○	Examples  (taken from various cases):
+■	“Appellant called as witness his wife and Odell Harris, but neither was asked to express an opinion, or testify as to his con” (The end of the sentence is cut off.)
+■	“a stretcher, in the Emergency Room; that later a policeman, nurse and doctor came up and “asked me if I wanted to take a blood test * * * I said yes” * and that the doctor extracted blood from his left arm after washing if with what smelled like alcohol.” (The beginning of the sentence is cut off.)
+■	“21, 317 S.W. 2d 737, as authority for reversal of cases where the state’s testimony was adduced by only one witness.” (The beginning of the sentence is cut off, a common occurrence with sentences that cite specific sections of law or prior rulings.)
+■	“Reliance is had upon Toombs v.” (Another situation where a reference to a legal work was not split correctly and the rest of the sentence is missing.)
