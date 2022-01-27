@@ -1,4 +1,4 @@
-# Legal_Text_Classification
+# Legal_Argument_Mining
 
 Train data creation:
 
